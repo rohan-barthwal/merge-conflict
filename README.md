@@ -2,6 +2,6 @@
 
 This is to demomstrate the merge-conflict between different developers
 
-Developer name- Harsh Sharma
-Developer city-Dehradun
+Developer name- Rohan Barthwal
+Developer city- Meerut
 Hello
